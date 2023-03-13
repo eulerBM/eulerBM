@@ -1,4 +1,4 @@
-# 💫 About Me:
+# 💫 Sobre mim:
 Sou Euler Motta, um desenvolvedor de back-end Python, com base em Nova Veneza, Santa Catarina, Brasil. Com uma paixão por tecnologia e desenvolvimento de software, tenho ampla experiência em trabalhar com o Framework Django e o Django REST.
 
 
@@ -12,7 +12,7 @@ Sou Euler Motta, um desenvolvedor de back-end Python, com base em Nova Veneza, S
 ![](https://github-readme-streak-stats.herokuapp.com/?user=eulerBM&theme=shades-of-purple&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=eulerBM&theme=shades-of-purple&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
-## 🐦 Latest Tweet
+## 🐦 Tweet mais recente
 [![](https://gtce.itsvg.in/api?username=https://twitter.com/BadaIZZ)](https://github.com/VishwaGauravIn/github-twitter-card-embed)
 
 ---
