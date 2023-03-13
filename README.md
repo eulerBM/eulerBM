@@ -12,10 +12,4 @@ Sou Euler Motta, um desenvolvedor de back-end Python, com base em Nova Veneza, S
 ![](https://github-readme-streak-stats.herokuapp.com/?user=eulerBM&theme=shades-of-purple&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=eulerBM&theme=shades-of-purple&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
-## 🐦 Tweet mais recente
-[![](https://gtce.itsvg.in/api?username=https://twitter.com/BadaIZZ)](https://github.com/VishwaGauravIn/github-twitter-card-embed)
 
----
-[![](https://visitcount.itsvg.in/api?id=eulerBM&icon=0&color=0)](https://visitcount.itsvg.in)
-
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
