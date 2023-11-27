@@ -19,11 +19,7 @@
 
 # 📊 GitHub Stats:
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=eulerBM)](https://github.com/anuraghazra/github-readme-stats)
-
-![](https://github-readme-streak-stats.herokuapp.com/?user=eulerBM&theme=highcontrast&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=eulerBM&theme=highcontrast&hide_border=false&include_all_commits=false&count_private=true&layout=compact)
-
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=eulerBM&show_icons=true&theme=transparent)
+[![Harlok's WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=eulerBM)](https://github.com/anuraghazra/github-readme-stats)
 
 ## 🌐 Socials:
  [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/euler-motta-076652232)
