@@ -18,6 +18,7 @@
 
 
 # 📊 GitHub Stats:
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=eulerBM)](https://github.com/anuraghazra/github-readme-stats)
 
 ![](https://github-readme-streak-stats.herokuapp.com/?user=eulerBM&theme=highcontrast&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=eulerBM&theme=highcontrast&hide_border=false&include_all_commits=false&count_private=true&layout=compact)
