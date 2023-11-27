@@ -1,4 +1,3 @@
-# 💫 my:
 A Python developer ‎😃
 
 
